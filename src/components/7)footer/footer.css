@@ -1,0 +1,26 @@
+.footer{
+    background-color: var(--black2);
+    padding: 1rem;
+    color: var(--white);
+    overflow-x: hidden;
+}
+.footer-ul {
+    color: var(--white);
+}
+
+.btn-up{
+    position: fixed;
+    bottom: 3%;
+    width: 40px;
+    height: 40px;
+    background-color: #32c1cb;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 35px;
+    right: 5%;
+    color: var(--white);
+    z-index: 10000;
+}
+.btn-up:hover{
+    background-color: var(--blue);
+}

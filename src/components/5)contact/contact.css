@@ -1,0 +1,11 @@
+.contact{
+    background-color: var(--black2);
+    border-radius: 10px;
+    color: var(--white);
+}
+.btn-submit{
+    background-color: var(--white);
+    color: var(--black);
+    padding: 5px 10px;
+    border-radius: 5px;
+}

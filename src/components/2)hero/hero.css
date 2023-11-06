@@ -1,0 +1,26 @@
+
+
+main{
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/portfolio-b7e89.appspot.com/o/img3.png?alt=media&token=79d03754-2c95-4b69-921a-6155ea715b31);
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: 4rem;
+}
+
+.ddd{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    
+}
+
+.text-hero{
+    padding: 2rem;
+    border-radius: 20px;
+    background-color: #9f959593;
+}
